@@ -1,3 +1,5 @@
+Edits by Jason Heithoff
+
 # ssh-copy-id for OSX
 
 > Quick port of the useful unix utility `ssh-copy-id`
